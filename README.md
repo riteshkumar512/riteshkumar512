@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riteshkumar512
 - 📓 i'm student of Computer Science at IGC
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack developer
+- 🌱 I’m currently learning full stack developer course
 - 📫 coneect with me https://www.linkedin.com/in/riteshkumar512
 
 
